@@ -1,5 +1,8 @@
 "# TaskOneProgrammingWeb" 
 
-Nombre: Fainner Ramirez De La Hoz
-Código: 2016214120
+# Tarea de fundamentos de GitHub 🚀
 
+* **Fainner Ramirez** - *Nombre del estudiante* 
+* **2016214120** - *Código del estudiante*
+
+por [Fainner Ramirez](https://github.com/fainnerramirez) 🤓.
